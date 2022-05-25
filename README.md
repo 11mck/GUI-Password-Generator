@@ -1,2 +1,2 @@
 # GUI-Password-Generator
-Password generator with GUI
+Password generator with GUI (tkinter module)
